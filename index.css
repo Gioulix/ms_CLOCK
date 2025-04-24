@@ -1,0 +1,17 @@
+body {
+  background-image: url(assets/back-g.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+}
+.clock {
+  color: white;
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: black 0px 0px 10px, white 0px 0px 20px;
+  text-decoration: underline;
+}
