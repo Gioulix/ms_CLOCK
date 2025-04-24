@@ -2,4 +2,4 @@
 
 ## Lockal timer with miliseconds
 
-A lockal timer using react with useState and useEffect hook
+A lockal timer with react JS using useState and useEffect hook
