@@ -12,6 +12,6 @@ body {
   font-weight: bold;
   font-family: monospace;
   text-align: center;
-  text-shadow: black 0px 0px 10px, white 0px 0px 20px;
+  text-shadow: black 5px 5px 10px, white 0px 0px 20px;
   text-decoration: underline;
 }
